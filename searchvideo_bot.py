@@ -1,6 +1,5 @@
 import requests
-from time 
-import sleep
+from time import sleep
 
 url = "https://t.me/searchvideos_bot<1360801929:AAHAhW9k6pauCWJUPzfLArfYHvACpKIXo_c>"
 def get_updates_json(request):
